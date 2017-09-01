@@ -1,14 +1,13 @@
 name: imagemagick_optimized
-description: 'Update Imagemagick by <a href="https://niklan.net/blog/139">Niklan</a>'
+description: 'Update Imagemagick by <a target="_blank" href="https://niklan.net/blog/139">Niklan</a>'
 package: imagemagick
 
 type: module
-# core: 8.x
+core: 8.x
+version: 1.0 
 # Information added by Drupal.org packaging script on 2017-06-14
 dependencies:
   - imagemagick
 
-version: '8.x-1.0-beta1'
-core: '8.x'
-project: 'fz152'
+
 
