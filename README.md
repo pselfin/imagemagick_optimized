@@ -10,5 +10,5 @@ Update Imagemagick by Niklan - https://niklan.net/blog/139
 *  После включения перейти на страницу /admin/config/media/image-toolkit и вы увидите что появилось чем пережимать.
 * Настроить имедж меджик
 * Включить модуль imagemagickniklanupd
-* очистить кеш drush cc
+* очистить кеш drush cr
 * и кеш пресетов drush image-flush --all
