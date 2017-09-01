@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Implements hook_imagemagick_arguments_alter().
+ * Implements hook_imagemagick_arguments_alter().  qwd
  */
 function imagemagick_optimized_imagemagick_arguments_alter(\Drupal\imagemagick\ImagemagickExecArguments $arguments, $command) {
   // https://developers.google.com/speed/docs/insights/OptimizeImages
