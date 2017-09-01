@@ -11,4 +11,4 @@ Update Imagemagick by Niklan - https://niklan.net/blog/139
 * Настроить имедж меджик
 * Включить модуль imagemagickniklanupd
 * очистить кеш drush cc
-** и кеш пресетов drush image-flush --all
+* и кеш пресетов drush image-flush --all
